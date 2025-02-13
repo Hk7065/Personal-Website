@@ -1,0 +1,1 @@
+This is my personal website, this was created in the beginning of journey so the code is not that much dynamic but you can explore my rest of the projects.
